@@ -23,13 +23,12 @@ _Noi bisogno di te._ **ADESSO.**
 
 We hacked un banca conto di un **Apple miscredente** per foraggiare nostro progetto.
 
-Ci serve che tu prendi questi soldi e li porti a ~~me~~ noi.
-
+Ci serve che tu prendi questi 💰💰💰 soldi 💰💰💰 e li porti a ~~me~~ noi.
 La **soldi locazione** é dentro una immagine dentro file zip che ti indicheró.
 
 Avrai bisogno di questo applicazione per zip usare su cellulare, e **sicuramente** per analisi della foto: [Snapseed](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=it)
 
-Troverai la **locazione dei soldi** in [questo file zip](http://bit.do/money_location), archivio _protetto-password_.
+Troverai la **locazione dei soldi** in [questo file zip](http://bit.do/soldi_locazione), archivio _protetto-password_.
 
 La _archivio password_ viene inviata in un canale piú sicuro. Controlla  sezione [Password](#Password) per sapere come fare.
 
@@ -49,12 +48,12 @@ Vai.
 1. Ottieni pacchetto con locazione denaro
 1. Richiedi password 
 1. Apri pacchetto con locazione denaro
-1. Analizza foto, tampera con foto, trova locazione
+1. Analizza foto, tampera con foto, trova la 💰💰💰 soldi locazione 📍🗺️ 
 1. Manda soldi a ~~Richard Stallman~~ Free Software Foundation!!!1!
 
 ### 📍🗺️ Photo money location
 
-Ottieni [pacchetto con locazione denaro](http://bit.do/money_location)
+Ottieni [pacchetto con locazione denaro](http://bit.do/soldi_locazione)
 
 #### Password richiesta
 
