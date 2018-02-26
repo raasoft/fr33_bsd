@@ -34,7 +34,7 @@ Troverai la **locazione dei soldi** in [questo file zip](http://bit.do/money_loc
 La _archivio password_ viene inviata in un canale piú sicuro. Controlla  sezione [Password](#Password) per sapere come fare.
 
 Una volta aperto archivio, trova foto e tampera con essa. 
-Sicuramente devi usare controllo di ```impostazione livelli```, perché su linux GIMP fa schfo e non riesco.
+Sicuramente devi usare controllo di ```Curve```, perché su linux GIMP fa schfo e non riesco.
 Devi scoprire dove locazione soldi é.
 
 Mandare quindi soldi a ~~Richard Stallman~~ Free Software Foundation.
@@ -50,7 +50,7 @@ Vai.
 1. Richiedi password 
 1. Apri pacchetto con locazione denaro
 1. Analizza foto, tampera con foto, trova locazione
-1. Manda soldi a ~~Richard Stallman~~ Free Software Foundation!
+1. Manda soldi a ~~Richard Stallman~~ Free Software Foundation!!!1!
 
 ### 📍🗺️ Photo money location
 
@@ -65,15 +65,6 @@ Ottieni [pacchetto con locazione denaro](http://bit.do/money_location)
 * [Snapseed](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=it)
 * [ES Gestore File](https://play.google.com/store/apps/details?id=com.estrongs.android.pop&hl=it)
 * [Invio password via SMS](https://repl.it/@rstallman/Send-Davides-zip-package-password-Click-RUN)
-
-## ❤ Credits
-
-Big hugs to:
-
-* Sivi the unicorn 💛
-* Rick the potato-star 🍠⭐
-* Nick the raccoon 🐻
-* Cento the cat 🐱
 
 ## 🎓 License
 
