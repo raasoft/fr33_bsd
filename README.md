@@ -45,11 +45,11 @@ Vai.
 ## ⚙ Configuration
 
 1. Scarica tutte applicazioni che ti servono
-1. Ottieni pacchetto con locazione denaro
-1. Richiedi password 
-1. Apri pacchetto con locazione denaro
-1. Analizza foto, tampera con foto, trova la 💰💰💰 soldi locazione 📍🗺️ 
-1. Manda soldi a ~~Richard Stallman~~ Free Software Foundation!!!1!
+1. [Ottieni pacchetto](http://bit.do/soldi_locazione) con locazione denaro
+1. [Richiedi password](https://repl.it/@rstallman/Send-Davides-zip-package-password-Click-RUN) su canale sicuro
+1. [Apri pacchetto](https://play.google.com/store/apps/details?id=com.estrongs.android.pop&hl=it) con locazione denaro usando app che apre password archivi
+1. [Analizza foto, tampera](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=it) con foto, trova la 💰💰💰 soldi locazione 📍🗺️ 
+1. Manda soldi a ~~Richard Stallman~~ Free Software Foundation!!!1! (╯°□°)╯ TROVA MODO!!!!! ヽ(ಠ_ಠ)ノ CAPITO!?!? ヽ(ಠ_ಠ)ノ
 
 ### 📍🗺️ Photo money location
 
